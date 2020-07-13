@@ -7,5 +7,5 @@ Travel service aimed at a social distance
 # Related Repo
 [Nugux Server]()
 
-[Nugux Web Client]()
+[Nugux Web Client](https://github.com/Nugux/Nugux-api-server)
 
