@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/10369528/87298663-83085c80-c545-11ea-867b-15fce2ba8d58.png)
+![image](https://user-images.githubusercontent.com/10369528/87797510-bcaecf80-c885-11ea-8ea2-b45babd3a7d1.png)
 
 
 # Nugux
