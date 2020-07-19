@@ -16,7 +16,7 @@ Travel service aimed at a social distance
 ### Profit
 일반 사용자와 프리미엄 서비스 고객 모두를 만족시키는 서비스입니다.
 
-![image](https://user-images.githubusercontent.com/10369528/87874957-e04e5300-ca08-11ea-9628-e6973a408c2a.png)
+![image](https://user-images.githubusercontent.com/10369528/87875009-302d1a00-ca09-11ea-85fa-dc6c2d159af4.png)
 
 # Nugux User Guide
 
