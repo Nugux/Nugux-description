@@ -4,6 +4,8 @@
 # Nugux
 Travel service aimed at a social distance
 
+사회적 거리두기를 실천하는 여행 서비스
+
 # Nugux User Guide
 
 ### nugux 시작 화면
