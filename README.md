@@ -9,8 +9,14 @@ Travel service aimed at a social distance
 # Service Introduce
 
 ### Business Model
+관광지 리스트에 상단에 배치되는 프리미엄 서비스가 존재합니다.
+
+![image](https://user-images.githubusercontent.com/10369528/87874795-bfd1c900-ca07-11ea-8fea-45ddc65d2392.png)
 
 ### Profit
+일반 사용자와 프리미엄 서비스 고객 모두를 만족시키는 서비스입니다.
+
+![image](https://user-images.githubusercontent.com/10369528/87874957-e04e5300-ca08-11ea-9628-e6973a408c2a.png)
 
 # Nugux User Guide
 
