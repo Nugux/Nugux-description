@@ -41,6 +41,8 @@ Travel service aimed at a social distance
 
 
 ### nugux 피칭/데모 영상
+해당영상은 다음 링크에서 확인할수있습니다.
+
 [영상 youtube Link](https://www.youtube.com/watch?v=6MMJzTab93k)
 
 
