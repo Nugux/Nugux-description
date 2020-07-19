@@ -49,10 +49,10 @@ Travel service aimed at a social distance
 
 
 # Nugux Team
-|                     | Front-End                                       | Back-End                                       | Document          | etc                           |
-|---------------------|-------------------------------------------------|------------------------------------------------|-------------------|-------------------------------|
-| 고세원 (dream365)   |                                                 | Server Architecture API Design Database Design | Nugux-api-server  |                               |
-| 서민석 (90Byte)     | Map control Algorithm                           | Database Design Business model Implementation  | NuguxApp          | Provided his own server :)    |
-| 이소영 (devSoyoung) | Front Architecture UI Design and Implementation |                                                | Nugux-fe          |                               |
-| 이원준 (Lee-WonJun) |                                                 | Server Logic Data Gathering                    | Nugux-description | Video and Presentation Design |
+|                     | Front-End                                        | Back-End                                         | Document          | etc                            |
+|---------------------|--------------------------------------------------|--------------------------------------------------|-------------------|--------------------------------|
+| 고세원 (dream365)   |                                                  | Server Architecture, API Design, Database Design | Nugux-api-server  |                                |
+| 서민석 (90Byte)     | Map control, Algorithm                           | Database Design, Business model Implementation   | NuguxApp          | Provided his own server :)     |
+| 이소영 (devSoyoung) | Front Architecture, UI Design and Implementation |                                                  | Nugux-fe          |                                |
+| 이원준 (Lee-WonJun) |                                                  | Server Logic, Data Gathering                     | Nugux-description | Video and Presentation, Design |
 
